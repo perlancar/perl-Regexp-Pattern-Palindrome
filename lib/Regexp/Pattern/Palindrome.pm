@@ -93,5 +93,3 @@ our %RE = (
 # ABSTRACT: Regexp patterns related to palindrome
 
 =head1 SEE ALSO
-
-L<Regexp::Pattern::Perl>
